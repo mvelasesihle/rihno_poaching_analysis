@@ -1,0 +1,16 @@
+Incident_ID;Date;Year;Province;Park_Reserve;Latitude;Longitude;Number_of_Rhinos_Poached;Rhino_Type;Method_Used;Arrests_Made;Number_of_Arrests;Suspected_Syndicate;Horn_Recovered;Estimated_Horn_Weight_kg;Estimated_Black_Market_Value_USD;Ranger_Patrol_Presence;Time_of_Day
+RP001;2022/01/15;2022;Limpopo;Kruger National Park;-23.9884;31.5547;2;White;Rifle;Yes;3;Yes;Yes;8.5;510000;Medium;Night
+RP002;2022/02/10;2022;KwaZulu-Natal;Hluhluwe_iMfolozi Park;-28.2198;31.9515;1;Black;Poison;No;0;Yes;No;3.2;192000;Low;Night
+RP003;2022/03/22;2022;North West;Pilanesberg Game Reserve;-25.25;27.1;1;White;Traps;Yes;1;No;Yes;4.0;240000;High;Day
+RP004;2022/04/18;2022;Mpumalanga;Kruger National Park;-24.0;31.5;3;White;Rifle;No;0;Yes;No;12.6;756000;Low;Night
+RP005;2022/06/05;2022;Limpopo;Private Reserve A;-23.7;29.4;1;Black;Darting;Yes;2;Yes;Yes;3.8;228000;Medium;Night
+RP006;2023/01/12;2023;KwaZulu-Natal;Hluhluwe_iMfolozi Park;-28.25;32.0;2;White;Rifle;Yes;4;Yes;Yes;7.9;474000;Medium;Night
+RP007;2023/02/28;2023;Free State;Private Reserve B;-29.0;26.2;1;White;Poison;No;0;No;No;4.1;246000;Low;Day
+RP008;2023/04/11;2023;North West;Madikwe Game Reserve;-24.75;26.25;2;Black;Rifle;Yes;2;Yes;Yes;6.5;390000;High;Night
+RP009;2023/07/19;2023;Limpopo;Kruger National Park;-23.9;31.6;4;White;Rifle;No;0;Yes;No;15.0;900000;Low;Night
+RP010;2023/09/03;2023;Mpumalanga;Private Reserve C;-25.3;30.9;1;Black;Traps;Yes;1;No;Yes;3.6;216000;Medium;Day
+RP011;2024/01/17;2024;KwaZulu-Natal;Hluhluwe_iMfolozi Park;-28.3;31.9;1;White;Rifle;Yes;2;Yes;Yes;4.2;252000;High;Night
+RP012;2024/03/09;2024;Limpopo;Kruger National Park;-23.85;31.55;3;White;Poison;No;0;Yes;No;11.8;708000;Low;Night
+RP013;2024/05/25;2024;North West;Pilanesberg Game Reserve;-25.2;27.15;1;Black;Darting;Yes;1;Yes;Yes;3.9;234000;Medium;Day
+RP014;2024/07/14;2024;Mpumalanga;Kruger National Park;-24.1;31.45;2;White;Rifle;No;0;Yes;No;8.3;498000;Low;Night
+RP015;2024/10/30;2024;Limpopo;Private Reserve D;-23.6;29.3;1;Black;Rifle;Yes;2;No;Yes;3.5;210000;High;Night
